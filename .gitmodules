@@ -1,5 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "gamlss.cens"]
+	path = gamlss.cens
+	url = https://github.com/cran/gamlss.cens
+[submodule "gamlss.data"]
+	path = gamlss.data
+	url = https://github.com/cran/gamlss.data
+[submodule "gamlss.mx"]
+	path = gamlss.mx
+	url = https://github.com/cran/gamlss.mx
+[submodule "gamlss.tr"]
+	path = gamlss.tr
+	url = https://github.com/cran/gamlss.tr
