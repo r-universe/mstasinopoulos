@@ -5,9 +5,6 @@
 [submodule "gamlss.cens"]
 	path = gamlss.cens
 	url = https://github.com/cran/gamlss.cens
-[submodule "gamlss.mx"]
-	path = gamlss.mx
-	url = https://github.com/cran/gamlss.mx
 [submodule "gamlss.tr"]
 	path = gamlss.tr
 	url = https://github.com/cran/gamlss.tr
